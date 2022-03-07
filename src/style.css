@@ -98,7 +98,7 @@ ul{
 }
 
 .slide{
-    position: relative;
+    /*position: relative;*/
     height: calc(90vh - 7.75rem);
 }
 
